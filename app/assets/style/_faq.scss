@@ -1,0 +1,45 @@
+.bannerBg{
+    &-faqicon{
+        width: 58px;
+        @include pad{
+            width: 31px;
+        }
+        @include mobile{
+            width: 24px;
+        }
+    }    
+}
+.faq{
+    &Maintitle{
+        font-size: 32px;
+        line-height: 45px;
+        font-weight: 700;
+    }
+    &Content{
+        &-title{
+            font-size: 20px;
+            line-height: 28px;
+            font-weight: 700;
+        }
+        &-text{
+            margin-left:5% ;
+        }        
+    }
+    @include mobile{
+        &Maintitle{
+            font-size: 20px;
+            line-height: 28px;
+        }
+        &Content{
+            &-title{
+                font-size: 16px;
+                line-height: 22px;
+            }
+            &-text{
+                font-size: 14px;
+                line-height: 21px;
+            }
+        }
+        
+    }
+}

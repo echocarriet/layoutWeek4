@@ -1,0 +1,64 @@
+.product-container{
+    max-width: 1368px;
+    margin: 0 auto;
+}
+.productNav{
+    &-item{
+        width: calc(100% / 3 );
+        border: 1px solid #DCDCDC;
+    }
+    &-link{
+        font-family: 'Roboto';
+        font-weight: 600;
+        font-size: 42px;
+        line-height: 55px;  
+        &.active{
+            border-bottom:16px solid $primary ;
+        }
+        &:hover{
+            border-bottom:16px solid $primary ;
+        }      
+    }
+    &-icon{
+        width: 48px;
+        &-functional{
+            width: 35px;
+        }
+    }
+    @include pad{
+        &-link{
+            font-size: 28px;
+            line-height: 37px;
+            &.active{
+                border-bottom: 8px solid $primary;
+            }
+            &:hover{
+                border-bottom: 8px solid $primary;
+            }
+        }
+        &-icon{
+            width: 32px;
+            &-functional{
+                width: 23px;
+            }
+        }
+    }
+    @include mobile{
+        &-link{
+            font-size: 14px;
+            line-height: 19px;
+            &.active{
+                border-bottom: 4px solid $primary;
+            }
+            &:hover{
+                border-bottom: 4px solid $primary;
+            }
+        }
+        &-icon{
+            width: 15px;
+            &-functional{
+                width: 11px;
+            }
+        }
+    }
+}

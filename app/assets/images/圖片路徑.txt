@@ -1,0 +1,150 @@
+LOGO :
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/logo.png?raw=true
+
+Footer Icon :
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week3/icon-fb.svg
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week3/icon-line.svg
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week3/icon-ig.svg
+
+phone :
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week3/icon-phone.svg
+mail :
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week3/icon-mail.svg
+
+
+
+//========================================================= index
+banner :
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/banner.png?raw=true
+錢:
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/7059003f6d011be52053cb5e63d68f3999af01d7/week3/icon-dollar.svg
+時鐘:
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/7059003f6d011be52053cb5e63d68f3999af01d7/week3/icon-clock.svg
+愛心 :
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/7059003f6d011be52053cb5e63d68f3999af01d7/week3/icon-heart.svg
+眼鏡 :
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/7059003f6d011be52053cb5e63d68f3999af01d7/week3/icon-glasses.svg
+
+// 經典系列
+鑽石 :
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/7059003f6d011be52053cb5e63d68f3999af01d7/week3/icon-diamond.svg
+鑽石白:
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/7059003f6d011be52053cb5e63d68f3999af01d7/week3/icon-diamond-white.svg
+太陽:
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/7059003f6d011be52053cb5e63d68f3999af01d7/week3/icon-sun.svg
+太陽白:
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/7059003f6d011be52053cb5e63d68f3999af01d7/week3/icon-sun-white.svg
+閃電:
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/7059003f6d011be52053cb5e63d68f3999af01d7/week3/icon-thunder.svg
+閃電白:
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/7059003f6d011be52053cb5e63d68f3999af01d7/week3/icon-thunder-white.svg
+
+圖片1:
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/product-1.png?raw=true
+圖片2:
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/product-2.png?raw=true
+圖片3:
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/product-3.png?raw=true
+
+//聯名
+圖片1:
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/product-8.png?raw=true
+圖片2:
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/product-9.png?raw=true
+
+//顧客推薦
+圖片1 :
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/rec-1.png?raw=true
+圖片2 :
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/rec-2.png?raw=true
+圖片3 :
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/rec-3.png?raw=true
+圖片4 :
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/rec-4.png?raw=true
+
+//========================================================= location
+背景圖 :
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/qa.png?raw=true
+
+門市據點 icon :
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/7059003f6d011be52053cb5e63d68f3999af01d7/week3/icon-location.svg
+
+電話 icon :
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/7059003f6d011be52053cb5e63d68f3999af01d7/week3/icon-phone-black.svg
+時鐘 icon :
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/7059003f6d011be52053cb5e63d68f3999af01d7/week3/icon-clock-black.svg
+地址 icon :
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/7059003f6d011be52053cb5e63d68f3999af01d7/week3/icon-map.svg
+
+圖片 1:
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/locate1.jpeg?raw=true
+圖片 2:
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/locate2.jpg?raw=true
+圖片 3:
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/locate3.jpg?raw=true
+圖片 4:
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/locate4.jpg?raw=true
+圖片 5:
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/locate5.jpg?raw=true
+
+//========================================================= product
+鑽石 icon 黑:
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/7059003f6d011be52053cb5e63d68f3999af01d7/week3/icon-diamond-black.svg
+太陽 icon 黑:
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/7059003f6d011be52053cb5e63d68f3999af01d7/week3/icon-sun-black.svg
+閃電 icon 黑:
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/7059003f6d011be52053cb5e63d68f3999af01d7/week3/icon-thunder-black.svg
+
+圖片一
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/banner-1.png?raw=true
+圖片二
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/banner-2.png?raw=true
+
+商品1
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/products-1.png?raw=true
+商品2
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/products-2.png?raw=true
+商品3
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/products-3.png?raw=true
+商品4
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/products-4.png?raw=true
+商品5
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week3/products-5.jpg
+商品6
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/products-6.jpg?raw=true
+商品7
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/products-7.jpg?raw=true
+商品8
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/products-8.jpg?raw=true
+商品9
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/products-9.jpg
+商品10
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/products-10.jpg?raw=true
+商品11
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/products-11.jpg?raw=true
+商品12
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/products-12.jpg?raw=true
+
+
+//========================================================= faq
+常見問題 icon :
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/7059003f6d011be52053cb5e63d68f3999af01d7/week3/icon-help.svg
+
+//========================================================= blog
+搜尋 ICON :
+https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/7059003f6d011be52053cb5e63d68f3999af01d7/week3/icon-search.svg
+
+Blog1 :
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/blog-1.png?raw=true
+
+Blog2 :
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/blog-2.png?raw=true
+
+Blog3 :
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/blog-3.png?raw=true
+
+Blog4 :
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/blog-4.png?raw=true
+
+Blog5 :
+https://github.com/hexschool/webLayoutTraining1st/blob/master/week3/blog-5.png?raw=true
